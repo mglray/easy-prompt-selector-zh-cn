@@ -1,0 +1,41 @@
+眼睛:
+  色:
+    黒: black eyes
+    白: white eyes
+    红: red eyes
+    青: blue eyes
+    绿: green eyes
+    紫: purple eyes
+    银色: silver eyes
+    金色: golden eyes
+    灰色: gray eyes
+    水色: aqua eyes
+    茶色: brown eyes
+    粉色: pink eyes
+    橙色: orange eyes
+    异色: heterochromia
+  状态:
+    半闭眼: half-closed eyes
+    闭眼: closed eyes
+
+耳朵:
+  精灵耳: elf ears
+  动物耳: animal ears
+  猫耳: cat ears
+  狐狸耳: fox ears
+
+口:
+  唇: lip
+  张嘴: open mouth
+  闭嘴: closed mouth
+  牙齿: teeth
+  龅牙: buck teeth
+  上牙: upper teeth
+  圆牙: round teeth
+  咬牙切齿: clenched teeth
+  牙: fang
+  舔嘴唇: licking lips
+  吐舌头: tongue out
+  长舌头: long tongue
+  手背捂嘴: tehepero
+  口水: saliva
