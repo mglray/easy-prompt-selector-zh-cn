@@ -1,83 +1,84 @@
-上衣：
-    衬衣：
+上衣:
+  衬衣:
     衬衫:shirt
-       白衬衫:white_shirt
-       领衬衫:collared_shirt
-       黑色衬衫:black_shirt
-       开衬衫:open_shirt
-       礼服衬衫:dress_shirt
-       无袖上衣:sleeveless_shirt
-       蓝衬衫:blue_shirt
-       T恤:t-shirt
-       灰色衬衫:grey_shirt
-       粉红色衬衫:pink_shirt
-       条纹衬衫:striped_shirt
-       露肩衬衫:off-shoulder_shirt
-       衬衫塞进去:shirt_tucked_in
-       裸衬衫:naked_shirt
-       水手衬衫:sailor_shirt
-       湿衬衫:wet_shirt
-       褶皱衬衫:frilled_shirt
-       汗衫:undershirt
-       拉紧衬衫:taut_shirt
-       拉衬衫:shirt_pull
-       格子衬衫:plaid_shirt
-       解开的衬衫:unbuttoned_shirt
-       衬衫脱下:shirt_removed
-       透明衬衫:see-through_shirt
-       无肩带衬衫:strapless_shirt
-       Polo衫:polo_shirt
-       运动衫:sweatshirt
-       水衬衫:aqua_shirt
-       紧身衬衫:tight_shirt
-       夏威夷衬衫:hawaiian_shirt
-       松散的衬衫:loose_shirt
-       拿着衬衫:holding_shirt
-       腰间衬衫:shirt_around_waist
-       衬衫悬垂:shirt_overhang
-       背心衬衫:vest_over_shirt
-       睡衣:nightshirt
-       卸下胸罩衬衫:removing_bra_under_shirt
-  夹克：
-       夹克:jacket
-       开夹克:open_jacket
-       白夹克:white_jacket
-       连帽外套:hooded_jacket
-       田径外套:track_jacket
-       肩膀上的夹克:jacket_on_shoulders
-       毛皮夹克:fur-trimmed_jacket
-       军事外套:military_jacket
-       无袖外套:sleeveless_jacket
-       皮夹克:leather_jacket
-       领夹克:collared_jacket
-       西装外套:suit_jacket
-       轰炸机外套:bomber_jacket
-       海峡夹克:straitjacket
-       裸夹克:naked_jacket
-       连帽田径夹克:hooded_track_jacket
-       牛仔外套:denim_jacket
-       拿着夹克:holding_jacket
-       没有外套:no_jacket
-       夹克女孩（Dipp）:jacket_girl_(dipp)
-       褶皱外套:frilled_jacket
-       夹克在肩膀上:jacket_over_shoulder
-       长外套:long_jacket
-       皮夹克:fur_jacket
-       羽绒服:down_jacket
-       毛衣外套:sweater_jacket
-       消防员夹克:firefighter_jacket
-       防弹背心:flak_jacket
-       衬衫外套:padded_jacket
-       全金属外壳:full_metal_jacket
-       圆点夹克:polka_dot_jacket
+    白衬衫:white_shirt
+    领衬衫:collared_shirt
+    黑色衬衫:black_shirt
+    开衬衫:open_shirt
+    礼服衬衫:dress_shirt
+    无袖上衣:sleeveless_shirt
+    蓝衬衫:blue_shirt
+    T恤:t-shirt
+    灰色衬衫:grey_shirt
+    粉红色衬衫:pink_shirt
+    条纹衬衫:striped_shirt
+    露肩衬衫:off-shoulder_shirt
+    衬衫塞进去:shirt_tucked_in
+    裸衬衫:naked_shirt
+    水手衬衫:sailor_shirt
+    湿衬衫:wet_shirt
+    褶皱衬衫:frilled_shirt
+    汗衫:undershirt
+    拉紧衬衫:taut_shirt
+    拉衬衫:shirt_pull
+    格子衬衫:plaid_shirt
+    解开的衬衫:unbuttoned_shirt
+    衬衫脱下:shirt_removed
+    透明衬衫:see-through_shirt
+    无肩带衬衫:strapless_shirt
+    Polo衫:polo_shirt
+    运动衫:sweatshirt
+    水衬衫:aqua_shirt
+    紧身衬衫:tight_shirt
+    夏威夷衬衫:hawaiian_shirt
+    松散的衬衫:loose_shirt
+    拿着衬衫:holding_shirt
+    腰间衬衫:shirt_around_waist
+    衬衫悬垂:shirt_overhang
+    背心衬衫:vest_over_shirt
+    睡衣:nightshirt
+    卸下胸罩衬衫:removing_bra_under_shirt
+  夹克:
+    夹克:jacket
+    开夹克:open_jacket
+    白夹克:white_jacket
+    连帽外套:hooded_jacket
+    田径外套:track_jacket
+    肩膀上的夹克:jacket_on_shoulders
+    毛皮夹克:fur-trimmed_jacket
+    军事外套:military_jacket
+    无袖外套:sleeveless_jacket
+    皮夹克:leather_jacket
+    领夹克:collared_jacket
+    西装外套:suit_jacket
+    轰炸机外套:bomber_jacket
+    海峡夹克:straitjacket
+    裸夹克:naked_jacket
+    连帽田径夹克:hooded_track_jacket
+    牛仔外套:denim_jacket
+    拿着夹克:holding_jacket
+    没有外套:no_jacket
+    夹克女孩（Dipp）:jacket_girl_(dipp)
+    褶皱外套:frilled_jacket
+    夹克在肩膀上:jacket_over_shoulder
+    长外套:long_jacket
+    皮夹克:fur_jacket
+    羽绒服:down_jacket
+    毛衣外套:sweater_jacket
+    消防员夹克:firefighter_jacket
+    防弹背心:flak_jacket
+    衬衫外套:padded_jacket
+    全金属外壳:full_metal_jacket
+    圆点夹克:polka_dot_jacket
 
 
-裤子：
-  裤子：
-    裙子：
+裤子:
+  裤子:
+  
+  裙子:
 
 
-鞋子：
+鞋子:
 
 
-配饰：
+配饰:
